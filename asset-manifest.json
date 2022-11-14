@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/code-bully/static/css/main.073c9b0a.css",
-    "main.js": "/code-bully/static/js/main.0101270b.js",
+    "main.css": "/code-bully/static/css/main.23304f1d.css",
+    "main.js": "/code-bully/static/js/main.aad877af.js",
     "static/js/787.facd3fe8.chunk.js": "/code-bully/static/js/787.facd3fe8.chunk.js",
-    "static/media/logo.svg": "/code-bully/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/code-bully/index.html",
-    "main.073c9b0a.css.map": "/code-bully/static/css/main.073c9b0a.css.map",
-    "main.0101270b.js.map": "/code-bully/static/js/main.0101270b.js.map",
+    "main.23304f1d.css.map": "/code-bully/static/css/main.23304f1d.css.map",
+    "main.aad877af.js.map": "/code-bully/static/js/main.aad877af.js.map",
     "787.facd3fe8.chunk.js.map": "/code-bully/static/js/787.facd3fe8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0101270b.js"
+    "static/css/main.23304f1d.css",
+    "static/js/main.aad877af.js"
   ]
 }
