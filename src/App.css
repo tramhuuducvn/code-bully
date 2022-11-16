@@ -42,7 +42,7 @@ body {
   stroke: #c64242;
   stroke-dasharray: 237.7527313232422;
   stroke-dashoffset: 0;
-  animation: animate-star 7s infinite;
+  animation: animate-star 7s infinite linear;
 }
 
 @keyframes animate-star {

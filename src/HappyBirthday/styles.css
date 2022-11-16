@@ -1,0 +1,61 @@
+html, body {
+    height: 100%;
+    background-color: black;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .draw_text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #text-logo {
+    font-family: "Lucida Console", "Courier New", monospace;;
+    stroke-dashoffset: 100%;
+    stroke-dasharray: 100%;
+    animation: draw 7s infinite linear;
+    background-clip: text;
+  }
+  
+  @keyframes draw {
+    100% {
+        stroke-dashoffset: 0%;
+    }
+  }
+  
+  #star-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #star-icon path {
+    fill: #c64242;
+    stroke-width: 2;
+    stroke: #c64242;
+    stroke-dasharray: 237.7527313232422;
+    stroke-dashoffset: 0;
+    animation: animate-star 7s infinite linear;
+  }
+  
+  @keyframes animate-star {
+    0% {
+      fill: transparent;
+        stroke-dashoffset: 237.7527313232422;
+    }
+    90% {
+        fill: transparent
+    }
+    100% {
+        fill: #c64242;
+        stroke-dashoffset: 0;
+    }
+  }
+  
