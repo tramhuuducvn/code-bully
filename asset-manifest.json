@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/code-bully/static/css/main.23304f1d.css",
-    "main.js": "/code-bully/static/js/main.aad877af.js",
+    "main.js": "/code-bully/static/js/main.ac580d3d.js",
     "static/js/787.facd3fe8.chunk.js": "/code-bully/static/js/787.facd3fe8.chunk.js",
     "index.html": "/code-bully/index.html",
     "main.23304f1d.css.map": "/code-bully/static/css/main.23304f1d.css.map",
-    "main.aad877af.js.map": "/code-bully/static/js/main.aad877af.js.map",
+    "main.ac580d3d.js.map": "/code-bully/static/js/main.ac580d3d.js.map",
     "787.facd3fe8.chunk.js.map": "/code-bully/static/js/787.facd3fe8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23304f1d.css",
-    "static/js/main.aad877af.js"
+    "static/js/main.ac580d3d.js"
   ]
 }
